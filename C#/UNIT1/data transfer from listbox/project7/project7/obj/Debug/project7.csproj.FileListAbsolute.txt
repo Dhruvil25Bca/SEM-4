@@ -1,0 +1,29 @@
+D:\Chirag@3013\C#\project7\project7\bin\Debug\project7.exe.config
+D:\Chirag@3013\C#\project7\project7\bin\Debug\project7.exe
+D:\Chirag@3013\C#\project7\project7\bin\Debug\project7.pdb
+D:\Chirag@3013\C#\project7\project7\obj\Debug\project7.csprojResolveAssemblyReference.cache
+D:\Chirag@3013\C#\project7\project7\obj\Debug\project7.Form1.resources
+D:\Chirag@3013\C#\project7\project7\obj\Debug\project7.Properties.Resources.resources
+D:\Chirag@3013\C#\project7\project7\obj\Debug\project7.csproj.GenerateResource.Cache
+D:\Chirag@3013\C#\project7\project7\obj\Debug\project7.exe
+D:\Chirag@3013\C#\project7\project7\obj\Debug\project7.pdb
+C:\Users\Sadhu\Documents\C#\UNIT01\data transfer from listbox\project7\project7\bin\Debug\project7.exe.config
+C:\Users\Sadhu\Documents\C#\UNIT01\data transfer from listbox\project7\project7\bin\Debug\project7.exe
+C:\Users\Sadhu\Documents\C#\UNIT01\data transfer from listbox\project7\project7\bin\Debug\project7.pdb
+C:\Users\Sadhu\Documents\C#\UNIT01\data transfer from listbox\project7\project7\obj\Debug\project7.csproj.AssemblyReference.cache
+C:\Users\Sadhu\Documents\C#\UNIT01\data transfer from listbox\project7\project7\obj\Debug\project7.Form1.resources
+C:\Users\Sadhu\Documents\C#\UNIT01\data transfer from listbox\project7\project7\obj\Debug\project7.Properties.Resources.resources
+C:\Users\Sadhu\Documents\C#\UNIT01\data transfer from listbox\project7\project7\obj\Debug\project7.csproj.GenerateResource.cache
+C:\Users\Sadhu\Documents\C#\UNIT01\data transfer from listbox\project7\project7\obj\Debug\project7.csproj.CoreCompileInputs.cache
+C:\Users\Sadhu\Documents\C#\UNIT01\data transfer from listbox\project7\project7\obj\Debug\project7.exe
+C:\Users\Sadhu\Documents\C#\UNIT01\data transfer from listbox\project7\project7\obj\Debug\project7.pdb
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT01\data transfer from listbox\project7\project7\bin\Debug\project7.exe.config
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT01\data transfer from listbox\project7\project7\bin\Debug\project7.exe
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT01\data transfer from listbox\project7\project7\bin\Debug\project7.pdb
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT01\data transfer from listbox\project7\project7\obj\Debug\project7.csproj.AssemblyReference.cache
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT01\data transfer from listbox\project7\project7\obj\Debug\project7.Form1.resources
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT01\data transfer from listbox\project7\project7\obj\Debug\project7.Properties.Resources.resources
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT01\data transfer from listbox\project7\project7\obj\Debug\project7.csproj.GenerateResource.cache
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT01\data transfer from listbox\project7\project7\obj\Debug\project7.csproj.CoreCompileInputs.cache
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT01\data transfer from listbox\project7\project7\obj\Debug\project7.exe
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT01\data transfer from listbox\project7\project7\obj\Debug\project7.pdb
