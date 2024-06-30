@@ -1,0 +1,30 @@
+D:\Chirag@3013\C#\project4\project4\bin\Debug\project4.exe.config
+D:\3013\C# p4 to p6\project4\project4\bin\Debug\project4.exe.config
+D:\3013\C# p4 to p6\project4\project4\bin\Debug\project4.exe
+D:\3013\C# p4 to p6\project4\project4\bin\Debug\project4.pdb
+D:\3013\C# p4 to p6\project4\project4\obj\Debug\project4.csprojResolveAssemblyReference.cache
+D:\3013\C# p4 to p6\project4\project4\obj\Debug\project4.Form1.resources
+D:\3013\C# p4 to p6\project4\project4\obj\Debug\project4.Properties.Resources.resources
+D:\3013\C# p4 to p6\project4\project4\obj\Debug\project4.csproj.GenerateResource.Cache
+D:\3013\C# p4 to p6\project4\project4\obj\Debug\project4.exe
+D:\3013\C# p4 to p6\project4\project4\obj\Debug\project4.pdb
+C:\Users\Sadhu\Documents\C#\project4\project4\bin\Debug\project4.exe.config
+C:\Users\Sadhu\Documents\C#\project4\project4\bin\Debug\project4.exe
+C:\Users\Sadhu\Documents\C#\project4\project4\bin\Debug\project4.pdb
+C:\Users\Sadhu\Documents\C#\project4\project4\obj\Debug\project4.csproj.AssemblyReference.cache
+C:\Users\Sadhu\Documents\C#\project4\project4\obj\Debug\project4.Form1.resources
+C:\Users\Sadhu\Documents\C#\project4\project4\obj\Debug\project4.Properties.Resources.resources
+C:\Users\Sadhu\Documents\C#\project4\project4\obj\Debug\project4.csproj.GenerateResource.cache
+C:\Users\Sadhu\Documents\C#\project4\project4\obj\Debug\project4.csproj.CoreCompileInputs.cache
+C:\Users\Sadhu\Documents\C#\project4\project4\obj\Debug\project4.exe
+C:\Users\Sadhu\Documents\C#\project4\project4\obj\Debug\project4.pdb
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT01\Loan calculator\project4\project4\bin\Debug\project4.exe.config
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT01\Loan calculator\project4\project4\bin\Debug\project4.exe
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT01\Loan calculator\project4\project4\bin\Debug\project4.pdb
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT01\Loan calculator\project4\project4\obj\Debug\project4.csproj.AssemblyReference.cache
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT01\Loan calculator\project4\project4\obj\Debug\project4.Form1.resources
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT01\Loan calculator\project4\project4\obj\Debug\project4.Properties.Resources.resources
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT01\Loan calculator\project4\project4\obj\Debug\project4.csproj.GenerateResource.cache
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT01\Loan calculator\project4\project4\obj\Debug\project4.csproj.CoreCompileInputs.cache
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT01\Loan calculator\project4\project4\obj\Debug\project4.exe
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT01\Loan calculator\project4\project4\obj\Debug\project4.pdb
