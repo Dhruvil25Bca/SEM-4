@@ -1,0 +1,14 @@
+package pack2;
+import pack1.*;
+class q
+{
+	void q1()
+	{
+		x obj1=new x();
+		System.out.println("Class q");
+		//System.out.println("a is "+obj1.a);
+		//System.out.println("b is "+obj1.b);
+		System.out.println("c is "+obj1.c);
+		//System.out.println("d is "+obj1.d);
+	}
+}
