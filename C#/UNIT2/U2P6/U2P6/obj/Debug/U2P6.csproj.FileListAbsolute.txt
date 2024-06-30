@@ -1,0 +1,10 @@
+C:\Users\Sadhu\Documents\C#\UNIT02\U2P6\U2P6\obj\Debug\U2P6.csproj.AssemblyReference.cache
+C:\Users\Sadhu\Documents\C#\UNIT02\U2P6\U2P6\obj\Debug\U2P6.Form1.resources
+C:\Users\Sadhu\Documents\C#\UNIT02\U2P6\U2P6\obj\Debug\U2P6.Properties.Resources.resources
+C:\Users\Sadhu\Documents\C#\UNIT02\U2P6\U2P6\obj\Debug\U2P6.csproj.GenerateResource.cache
+C:\Users\Sadhu\Documents\C#\UNIT02\U2P6\U2P6\obj\Debug\U2P6.csproj.CoreCompileInputs.cache
+C:\Users\Sadhu\Documents\C#\UNIT02\U2P6\U2P6\bin\Debug\U2P6.exe.config
+C:\Users\Sadhu\Documents\C#\UNIT02\U2P6\U2P6\bin\Debug\U2P6.exe
+C:\Users\Sadhu\Documents\C#\UNIT02\U2P6\U2P6\bin\Debug\U2P6.pdb
+C:\Users\Sadhu\Documents\C#\UNIT02\U2P6\U2P6\obj\Debug\U2P6.exe
+C:\Users\Sadhu\Documents\C#\UNIT02\U2P6\U2P6\obj\Debug\U2P6.pdb

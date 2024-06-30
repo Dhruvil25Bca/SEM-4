@@ -1,0 +1,20 @@
+C:\Users\Sadhu\Documents\C#\UNIT02\RGB\RGB\bin\Debug\RGB.exe.config
+C:\Users\Sadhu\Documents\C#\UNIT02\RGB\RGB\bin\Debug\RGB.exe
+C:\Users\Sadhu\Documents\C#\UNIT02\RGB\RGB\bin\Debug\RGB.pdb
+C:\Users\Sadhu\Documents\C#\UNIT02\RGB\RGB\obj\Debug\RGB.csproj.AssemblyReference.cache
+C:\Users\Sadhu\Documents\C#\UNIT02\RGB\RGB\obj\Debug\RGB.Form1.resources
+C:\Users\Sadhu\Documents\C#\UNIT02\RGB\RGB\obj\Debug\RGB.Properties.Resources.resources
+C:\Users\Sadhu\Documents\C#\UNIT02\RGB\RGB\obj\Debug\RGB.csproj.GenerateResource.cache
+C:\Users\Sadhu\Documents\C#\UNIT02\RGB\RGB\obj\Debug\RGB.csproj.CoreCompileInputs.cache
+C:\Users\Sadhu\Documents\C#\UNIT02\RGB\RGB\obj\Debug\RGB.exe
+C:\Users\Sadhu\Documents\C#\UNIT02\RGB\RGB\obj\Debug\RGB.pdb
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT02\RGB\RGB\bin\Debug\RGB.exe.config
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT02\RGB\RGB\bin\Debug\RGB.exe
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT02\RGB\RGB\bin\Debug\RGB.pdb
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT02\RGB\RGB\obj\Debug\RGB.csproj.AssemblyReference.cache
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT02\RGB\RGB\obj\Debug\RGB.Form1.resources
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT02\RGB\RGB\obj\Debug\RGB.Properties.Resources.resources
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT02\RGB\RGB\obj\Debug\RGB.csproj.GenerateResource.cache
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT02\RGB\RGB\obj\Debug\RGB.csproj.CoreCompileInputs.cache
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT02\RGB\RGB\obj\Debug\RGB.exe
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT02\RGB\RGB\obj\Debug\RGB.pdb

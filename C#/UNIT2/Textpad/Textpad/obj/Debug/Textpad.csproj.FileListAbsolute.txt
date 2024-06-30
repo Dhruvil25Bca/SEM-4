@@ -1,0 +1,20 @@
+C:\Users\Sadhu\Documents\C#\UNIT02\Textpad\Textpad\bin\Debug\Textpad.exe.config
+C:\Users\Sadhu\Documents\C#\UNIT02\Textpad\Textpad\bin\Debug\Textpad.exe
+C:\Users\Sadhu\Documents\C#\UNIT02\Textpad\Textpad\bin\Debug\Textpad.pdb
+C:\Users\Sadhu\Documents\C#\UNIT02\Textpad\Textpad\obj\Debug\Textpad.csproj.AssemblyReference.cache
+C:\Users\Sadhu\Documents\C#\UNIT02\Textpad\Textpad\obj\Debug\Textpad.Form1.resources
+C:\Users\Sadhu\Documents\C#\UNIT02\Textpad\Textpad\obj\Debug\Textpad.Properties.Resources.resources
+C:\Users\Sadhu\Documents\C#\UNIT02\Textpad\Textpad\obj\Debug\Textpad.csproj.GenerateResource.cache
+C:\Users\Sadhu\Documents\C#\UNIT02\Textpad\Textpad\obj\Debug\Textpad.csproj.CoreCompileInputs.cache
+C:\Users\Sadhu\Documents\C#\UNIT02\Textpad\Textpad\obj\Debug\Textpad.exe
+C:\Users\Sadhu\Documents\C#\UNIT02\Textpad\Textpad\obj\Debug\Textpad.pdb
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT02\Textpad\Textpad\bin\Debug\Textpad.exe.config
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT02\Textpad\Textpad\bin\Debug\Textpad.exe
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT02\Textpad\Textpad\bin\Debug\Textpad.pdb
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT02\Textpad\Textpad\obj\Debug\Textpad.csproj.AssemblyReference.cache
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT02\Textpad\Textpad\obj\Debug\Textpad.Form1.resources
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT02\Textpad\Textpad\obj\Debug\Textpad.Properties.Resources.resources
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT02\Textpad\Textpad\obj\Debug\Textpad.csproj.GenerateResource.cache
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT02\Textpad\Textpad\obj\Debug\Textpad.csproj.CoreCompileInputs.cache
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT02\Textpad\Textpad\obj\Debug\Textpad.exe
+D:\Study\sem-4\Dot new git\dotnet-c--main\UNIT02\Textpad\Textpad\obj\Debug\Textpad.pdb
