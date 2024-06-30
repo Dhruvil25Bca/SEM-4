@@ -1,0 +1,9 @@
+D:\chirag@3013\C#\Area\Area\bin\Debug\Area.exe.config
+D:\chirag@3013\C#\Area\Area\bin\Debug\Area.exe
+D:\chirag@3013\C#\Area\Area\bin\Debug\Area.pdb
+D:\chirag@3013\C#\Area\Area\obj\Debug\Area.csprojResolveAssemblyReference.cache
+D:\chirag@3013\C#\Area\Area\obj\Debug\Area.Form1.resources
+D:\chirag@3013\C#\Area\Area\obj\Debug\Area.Properties.Resources.resources
+D:\chirag@3013\C#\Area\Area\obj\Debug\Area.csproj.GenerateResource.Cache
+D:\chirag@3013\C#\Area\Area\obj\Debug\Area.exe
+D:\chirag@3013\C#\Area\Area\obj\Debug\Area.pdb
