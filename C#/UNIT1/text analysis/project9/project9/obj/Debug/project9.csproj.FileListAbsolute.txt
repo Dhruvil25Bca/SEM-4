@@ -1,0 +1,19 @@
+D:\3013\C# p4 to p6\project9\project9\bin\Debug\project9.exe.config
+D:\3013\C# p4 to p6\project9\project9\bin\Debug\project9.exe
+D:\3013\C# p4 to p6\project9\project9\bin\Debug\project9.pdb
+D:\3013\C# p4 to p6\project9\project9\obj\Debug\project9.csprojResolveAssemblyReference.cache
+D:\3013\C# p4 to p6\project9\project9\obj\Debug\project9.Form1.resources
+D:\3013\C# p4 to p6\project9\project9\obj\Debug\project9.Properties.Resources.resources
+D:\3013\C# p4 to p6\project9\project9\obj\Debug\project9.csproj.GenerateResource.Cache
+D:\3013\C# p4 to p6\project9\project9\obj\Debug\project9.exe
+D:\3013\C# p4 to p6\project9\project9\obj\Debug\project9.pdb
+C:\Users\Sadhu\Documents\C#\UNIT01\text analysis\project9\project9\bin\Debug\project9.exe.config
+C:\Users\Sadhu\Documents\C#\UNIT01\text analysis\project9\project9\bin\Debug\project9.exe
+C:\Users\Sadhu\Documents\C#\UNIT01\text analysis\project9\project9\bin\Debug\project9.pdb
+C:\Users\Sadhu\Documents\C#\UNIT01\text analysis\project9\project9\obj\Debug\project9.csproj.AssemblyReference.cache
+C:\Users\Sadhu\Documents\C#\UNIT01\text analysis\project9\project9\obj\Debug\project9.Form1.resources
+C:\Users\Sadhu\Documents\C#\UNIT01\text analysis\project9\project9\obj\Debug\project9.Properties.Resources.resources
+C:\Users\Sadhu\Documents\C#\UNIT01\text analysis\project9\project9\obj\Debug\project9.csproj.GenerateResource.cache
+C:\Users\Sadhu\Documents\C#\UNIT01\text analysis\project9\project9\obj\Debug\project9.csproj.CoreCompileInputs.cache
+C:\Users\Sadhu\Documents\C#\UNIT01\text analysis\project9\project9\obj\Debug\project9.exe
+C:\Users\Sadhu\Documents\C#\UNIT01\text analysis\project9\project9\obj\Debug\project9.pdb
