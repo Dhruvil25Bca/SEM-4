@@ -1,0 +1,10 @@
+D:\Chirag@3013\C#\project09\project09\bin\Debug\project09.exe.config
+D:\Chirag@3013\C#\project09\project09\bin\Debug\project09.exe
+D:\Chirag@3013\C#\project09\project09\bin\Debug\project09.pdb
+D:\Chirag@3013\C#\project09\project09\obj\Debug\project09.csproj.AssemblyReference.cache
+D:\Chirag@3013\C#\project09\project09\obj\Debug\project09.Form1.resources
+D:\Chirag@3013\C#\project09\project09\obj\Debug\project09.Properties.Resources.resources
+D:\Chirag@3013\C#\project09\project09\obj\Debug\project09.csproj.GenerateResource.cache
+D:\Chirag@3013\C#\project09\project09\obj\Debug\project09.csproj.CoreCompileInputs.cache
+D:\Chirag@3013\C#\project09\project09\obj\Debug\project09.exe
+D:\Chirag@3013\C#\project09\project09\obj\Debug\project09.pdb

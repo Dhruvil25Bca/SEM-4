@@ -1,0 +1,9 @@
+D:\Chriag\C#\U1P10\U1P10\bin\Debug\U1P10.exe.config
+D:\Chriag\C#\U1P10\U1P10\bin\Debug\U1P10.exe
+D:\Chriag\C#\U1P10\U1P10\bin\Debug\U1P10.pdb
+D:\Chriag\C#\U1P10\U1P10\obj\Debug\U1P10.csprojResolveAssemblyReference.cache
+D:\Chriag\C#\U1P10\U1P10\obj\Debug\U1P10.Form1.resources
+D:\Chriag\C#\U1P10\U1P10\obj\Debug\U1P10.Properties.Resources.resources
+D:\Chriag\C#\U1P10\U1P10\obj\Debug\U1P10.csproj.GenerateResource.Cache
+D:\Chriag\C#\U1P10\U1P10\obj\Debug\U1P10.exe
+D:\Chriag\C#\U1P10\U1P10\obj\Debug\U1P10.pdb
