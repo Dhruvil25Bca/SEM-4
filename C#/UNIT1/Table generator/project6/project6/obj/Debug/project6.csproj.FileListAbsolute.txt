@@ -1,0 +1,18 @@
+D:\Chirag@3013\C#\project6\project6\bin\Debug\project6.exe.config
+D:\Chirag@3013\C#\project6\project6\obj\Debug\project6.Form1.resources
+D:\Chirag@3013\C#\project6\project6\obj\Debug\project6.Properties.Resources.resources
+D:\Chirag@3013\C#\project6\project6\obj\Debug\project6.csproj.GenerateResource.Cache
+D:\Chirag@3013\C#\project6\project6\bin\Debug\project6.exe
+D:\Chirag@3013\C#\project6\project6\bin\Debug\project6.pdb
+D:\Chirag@3013\C#\project6\project6\obj\Debug\project6.exe
+D:\Chirag@3013\C#\project6\project6\obj\Debug\project6.pdb
+C:\Users\Sadhu\Documents\C#\UNIT01\Table generator\project6\project6\bin\Debug\project6.exe.config
+C:\Users\Sadhu\Documents\C#\UNIT01\Table generator\project6\project6\bin\Debug\project6.exe
+C:\Users\Sadhu\Documents\C#\UNIT01\Table generator\project6\project6\bin\Debug\project6.pdb
+C:\Users\Sadhu\Documents\C#\UNIT01\Table generator\project6\project6\obj\Debug\project6.csproj.AssemblyReference.cache
+C:\Users\Sadhu\Documents\C#\UNIT01\Table generator\project6\project6\obj\Debug\project6.Form1.resources
+C:\Users\Sadhu\Documents\C#\UNIT01\Table generator\project6\project6\obj\Debug\project6.Properties.Resources.resources
+C:\Users\Sadhu\Documents\C#\UNIT01\Table generator\project6\project6\obj\Debug\project6.csproj.GenerateResource.cache
+C:\Users\Sadhu\Documents\C#\UNIT01\Table generator\project6\project6\obj\Debug\project6.csproj.CoreCompileInputs.cache
+C:\Users\Sadhu\Documents\C#\UNIT01\Table generator\project6\project6\obj\Debug\project6.exe
+C:\Users\Sadhu\Documents\C#\UNIT01\Table generator\project6\project6\obj\Debug\project6.pdb

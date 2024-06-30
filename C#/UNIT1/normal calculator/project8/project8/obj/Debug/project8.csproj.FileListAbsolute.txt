@@ -1,0 +1,28 @@
+D:\3013\C# p4 to p6\project8\project8\bin\Debug\project8.exe.config
+D:\3013\C# p4 to p6\project8\project8\bin\Debug\project8.exe
+D:\3013\C# p4 to p6\project8\project8\bin\Debug\project8.pdb
+D:\3013\C# p4 to p6\project8\project8\obj\Debug\project8.Form1.resources
+D:\3013\C# p4 to p6\project8\project8\obj\Debug\project8.Properties.Resources.resources
+D:\3013\C# p4 to p6\project8\project8\obj\Debug\project8.csproj.GenerateResource.Cache
+D:\3013\C# p4 to p6\project8\project8\obj\Debug\project8.exe
+D:\3013\C# p4 to p6\project8\project8\obj\Debug\project8.pdb
+C:\Users\Sadhu\Documents\C#\project8\project8\bin\Debug\project8.exe.config
+C:\Users\Sadhu\Documents\C#\project8\project8\bin\Debug\project8.exe
+C:\Users\Sadhu\Documents\C#\project8\project8\bin\Debug\project8.pdb
+C:\Users\Sadhu\Documents\C#\project8\project8\obj\Debug\project8.csproj.AssemblyReference.cache
+C:\Users\Sadhu\Documents\C#\project8\project8\obj\Debug\project8.Form1.resources
+C:\Users\Sadhu\Documents\C#\project8\project8\obj\Debug\project8.Properties.Resources.resources
+C:\Users\Sadhu\Documents\C#\project8\project8\obj\Debug\project8.csproj.GenerateResource.cache
+C:\Users\Sadhu\Documents\C#\project8\project8\obj\Debug\project8.csproj.CoreCompileInputs.cache
+C:\Users\Sadhu\Documents\C#\project8\project8\obj\Debug\project8.exe
+C:\Users\Sadhu\Documents\C#\project8\project8\obj\Debug\project8.pdb
+C:\Users\Sadhu\Documents\C#\UNIT01\normal calculator\project8\project8\bin\Debug\project8.exe.config
+C:\Users\Sadhu\Documents\C#\UNIT01\normal calculator\project8\project8\bin\Debug\project8.exe
+C:\Users\Sadhu\Documents\C#\UNIT01\normal calculator\project8\project8\bin\Debug\project8.pdb
+C:\Users\Sadhu\Documents\C#\UNIT01\normal calculator\project8\project8\obj\Debug\project8.csproj.AssemblyReference.cache
+C:\Users\Sadhu\Documents\C#\UNIT01\normal calculator\project8\project8\obj\Debug\project8.Form1.resources
+C:\Users\Sadhu\Documents\C#\UNIT01\normal calculator\project8\project8\obj\Debug\project8.Properties.Resources.resources
+C:\Users\Sadhu\Documents\C#\UNIT01\normal calculator\project8\project8\obj\Debug\project8.csproj.GenerateResource.cache
+C:\Users\Sadhu\Documents\C#\UNIT01\normal calculator\project8\project8\obj\Debug\project8.csproj.CoreCompileInputs.cache
+C:\Users\Sadhu\Documents\C#\UNIT01\normal calculator\project8\project8\obj\Debug\project8.exe
+C:\Users\Sadhu\Documents\C#\UNIT01\normal calculator\project8\project8\obj\Debug\project8.pdb
